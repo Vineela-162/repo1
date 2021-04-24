@@ -1,0 +1,1 @@
+Jenkins is an integration tool that works as an orchestrator in DevOps life cycle.
